@@ -267,7 +267,7 @@ body {
   }
 }
 .text {
-  font-family: cursive;
+  /* font-family: cursive; */
   font-weight: 800;
   font-size: 25px;
   text-align: center;
